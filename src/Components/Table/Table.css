@@ -1,0 +1,24 @@
+.tableFixHead {
+    overflow-y: auto;
+    height: auto;
+    min-height: 151px;
+}
+
+.tableFixHead tbody th {
+    position: sticky;
+    left: 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    padding: 8px 16px;
+}
+
+th {
+    background: #eee;
+}

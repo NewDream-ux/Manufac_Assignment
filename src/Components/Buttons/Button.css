@@ -1,0 +1,14 @@
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    padding: 10px 0 10px;
+}
+.buttonStyle{
+    background-color: lightgray;
+    border-radius: 5px;
+    height: 30px;
+    width: auto;
+    cursor: pointer;
+    border: none;
+    font-weight: 600;
+}

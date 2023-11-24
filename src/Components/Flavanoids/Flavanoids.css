@@ -1,0 +1,13 @@
+.tableContainer{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+
+.tableSubContainer{
+    background-color: lightgrey;
+    height: auto;
+    width: 50%;
+    border: 1px solid;
+    border-radius: 5px;
+}
